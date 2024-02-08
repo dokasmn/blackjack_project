@@ -1,0 +1,8 @@
+Este arquivo serve como um local de registro de funcionalidades, ideias e etc
+Do momento existe uma necessidade de padronização de escrita dentro deste arquivo
+
+Data: 08/02/2023
+Criação inicial
+
+Criação de um arquivo system onde existirá todo o projeto e de um arquivo teste_front
+para futuramente servir como um teste dos templates relacionados a interface
