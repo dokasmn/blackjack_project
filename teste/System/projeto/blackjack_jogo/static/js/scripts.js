@@ -1,0 +1,1 @@
+console.log("blackjack deu bom!");

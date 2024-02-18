@@ -4,5 +4,5 @@ Do momento existe uma necessidade de padronização de escrita dentro deste arqu
 Data: 08/02/2023
 Criação inicial
 
-Criação de um arquivo system onde existirá todo o projeto e de um arquivo teste_front
-para futuramente servir como um teste dos templates relacionados a interface
+Criação de uma pasta System onde existirá todo o projeto e de uma pasta teste_front
+criação de uma venv em System e de uma pasta de um projeto django chamada blackjack
