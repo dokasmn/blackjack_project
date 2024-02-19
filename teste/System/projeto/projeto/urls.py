@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('cadastro.urls')),
     path('home', include('home.urls')),
-    path('blackjack_jogo', include('blackjack_jogo.urls')),
+    path('blackjack', include('blackjack.urls')),
 ]
