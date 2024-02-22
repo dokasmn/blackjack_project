@@ -1,3 +1,22 @@
-h1 {
+body{
+    height: 100vh;
     color: green;
+}
+#windows {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10%;
+}
+.window{
+    /* padding: 50px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #fff;
+    border-radius: 15%;
+    background-color: rgb(231, 231, 231);
+    width: 240px;
+    height: 250px;
 }

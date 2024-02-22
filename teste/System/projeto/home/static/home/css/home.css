@@ -1,3 +1,37 @@
-h1 {
-    color: pink;
+body{
+    background-color: rgb(68, 68, 68);
+    color: #fff;
+}
+#windows {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10%;
+}
+.window{
+    /* padding: 50px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(68, 68, 68);
+    border-radius: 15%;
+    background-color: #fff;
+    width: 240px;
+    height: 250px;
+}
+#page{
+    display: flex;
+}
+section{
+    width: 80%;
+    height: 80%;
+}
+aside{
+    width: 25%;
+    height: 85%;
+    position: absolute;
+    left: 5px;
+    display: flex;
+    flex-direction: column;
 }
